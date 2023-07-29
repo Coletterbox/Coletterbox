@@ -3,13 +3,13 @@
 
 [Here](https://github.com/Coletterbox/Git-Guide)'s a guide to Git that I wrote because of being in multiple environments where all Git-related queries, some with only the most tenuous link, were directed to me.
 
-[This](https://github.com/Coletterbox/Link-Tallying) analyses the frequency of each company advertising on a given marketplace.
+[This](https://github.com/Coletterbox/Link-Tallying) analyses the frequency of each company advertising on a given marketplace (Python, Matplotlib...) by taking the HTML file as an input.
 
 [Here](https://github.com/Coletterbox/Text-Comparison)'s some light data analysis using Python (including NumPy and Matplotlib), created on a day when I couldn't think of a project idea that wasn't a joke.
 
-[This](https://github.com/Coletterbox/Analysis-of-Some-Guy-s-Attempt-at-Small-Talk) is... let's call it social commentary. It's a word cloud and some other stuff using Python and some of its libraries (Pandas, NumPy, Matplotlib...
+[This](https://github.com/Coletterbox/Analysis-of-Some-Guy-s-Attempt-at-Small-Talk) is... let's call it social commentary. It's a word cloud and some other stuff using Python and some of its libraries (Pandas, NumPy, Matplotlib, etc.).
 
-These are my Advent of Code attempts, but every year I stop around Christmas Day (but so does everyone else I know). [2020](https://github.com/Coletterbox/Advent-of-Code-2020), [2021](https://github.com/Coletterbox/Advent-of-Code-2021) and [2022](https://github.com/Coletterbox/Advent-of-Code-2022).
+These are my Advent of Code attempts, but every year I stop around Christmas Day (but so does everyone else I know). [2020](https://github.com/Coletterbox/Advent-of-Code-2020) (Java, JavaScript, Python, Ruby and C#), [2021](https://github.com/Coletterbox/Advent-of-Code-2021) (JavaScript) and [2022](https://github.com/Coletterbox/Advent-of-Code-2022) (Python).
 
 [This](https://coletterbox.github.io/Random-Task-Chooser/) is a web page I made that randomly chooses your next task, in case you can't decide (made using JavaScript, HTML and CSS, of course).
 
