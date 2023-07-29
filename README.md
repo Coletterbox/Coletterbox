@@ -3,6 +3,8 @@
 
 [Here](https://github.com/Coletterbox/Git-Guide)'s a guide to Git that I wrote because of being in multiple environments where all Git-related queries, some with only the most tenuous link, were directed to me.
 
+[This](https://github.com/Coletterbox/Link-Tallying) analyses the frequency of each company advertising on a given marketplace.
+
 [Here](https://github.com/Coletterbox/Text-Comparison)'s some light data analysis using Python (including NumPy and Matplotlib), created on a day when I couldn't think of a project idea that wasn't a joke.
 
 [This](https://github.com/Coletterbox/Analysis-of-Some-Guy-s-Attempt-at-Small-Talk) is... let's call it social commentary. It's a word cloud and some other stuff using Python and some of its libraries (Pandas, NumPy, Matplotlib...
