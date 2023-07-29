@@ -15,7 +15,7 @@ These are my Advent of Code attempts, but every year I stop around Christmas Day
 
 [This](https://github.com/Coletterbox/Run-and-Plot-an-SQL-Query-for-Multiple-Dates/blob/main/Run%20and%20Plot%20SQL%20Query%20For%20Multiple%20Dates.ipynb)... I was so proud of this until I realised how redundant it was. Basically if you need to run an SQL query for a range of dates and plot the results, all you need to do is input a few things as arguments, and it handles all that for you. Just like... many existing programmes already do. Oh well!
 
-[This](https://github.com/Coletterbox/More-BigQuery-with-Python/blob/main/dashboardDraft1.ipynb) connects to BigQuery's API; runs queries (that I wrote) and plots them using Python libraries.
+[This](https://github.com/Coletterbox/More-BigQuery-with-Python/blob/main/dashboardDraft1.ipynb) connects to BigQuery's API; runs SQL queries (that I wrote) and plots them using Python libraries.
 
 [This](https://github.com/Coletterbox/MergeSort/blob/master/CombineAndSortArrays.java) is a merge sort project I completed in Java.
 
