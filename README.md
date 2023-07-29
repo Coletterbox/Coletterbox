@@ -27,5 +27,5 @@ These are my Advent of Code attempts, but every year I stop around Christmas Day
 
 [This](https://github.com/Coletterbox/Slightly-Bigger-Numbers) takes a number and returns the next biggest number that uses the same digits. I may have gone too far back... The code might be terrible. But it works! (JavaScript.)
 
-[This](https://coletterbox.github.io/headline-generator) is a parody of racist, fearmongering newspapers. It generates headlines randomly, just like they do. (HTML, CSS and JavaScript.)
+[This](https://coletterbox.github.io/headline-generator) (using HTML, CSS and JavaScript) is a parody of racist, fearmongering newspapers. It generates headlines randomly, just like they do.
 
