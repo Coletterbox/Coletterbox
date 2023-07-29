@@ -18,3 +18,6 @@ These are my Advent of Code attempts, but every year I stop around Christmas Day
 [This](https://github.com/Coletterbox/More-BigQuery-with-Python/blob/main/dashboardDraft1.ipynb) connects to BigQuery's API; runs queries (that I wrote) and plots them using Python libraries.
 
 [This](https://github.com/Coletterbox/MergeSort/blob/master/CombineAndSortArrays.java) is a merge sort project I completed in Java.
+
+[This](https://github.com/Coletterbox/SudokuCheckerJava/blob/master/src/main/java/com/test/crss/CheckBoard.java) (in Java) takes a sudoku board as a two-dimensional array and tells you if it is complete/correct.
+
