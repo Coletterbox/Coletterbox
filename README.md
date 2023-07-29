@@ -1,5 +1,5 @@
 ### Hi!
-#### Here's a list of stuff.
+#### Here are (some of) my completed projects (that aren't confidential and/or the property of an employer).
 
 [Here](https://github.com/Coletterbox/Git-Guide)'s a guide to Git that I wrote because of being in multiple environments where all Git-related queries, some with only the most tenuous link, were directed to me.
 
