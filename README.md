@@ -21,3 +21,11 @@ These are my Advent of Code attempts, but every year I stop around Christmas Day
 
 [This](https://github.com/Coletterbox/SudokuCheckerJava/blob/master/src/main/java/com/test/crss/CheckBoard.java) (in Java) takes a sudoku board as a two-dimensional array and tells you if it is complete/correct.
 
+[This](https://github.com/Coletterbox/Sudoku-Checker/blob/master/sudoku1.js) is the same sudoku checker in JavaScript. I wrote it first (in the language that I knew better), and then knowing that the logic worked, I was able to rewrite it in another language, just focusing on the syntax. This is my way of picking up new languages quickly.
+
+[This](https://github.com/Coletterbox/Multiplying-Numbers-as-Strings/blob/master/script.js) multiplies numbers as strings (in JavaScript) to avoid conversion to scientific notation.
+
+[This](https://github.com/Coletterbox/Slightly-Bigger-Numbers) takes a number and returns the next biggest number that uses the same digits. I may have gone too far back... The code might be terrible. But it works! (JavaScript.)
+
+[This](https://coletterbox.github.io/headline-generator) is a parody of racist, fearmongering newspapers. It generates headlines randomly, just like they do. (HTML, CSS and JavaScript.)
+
