@@ -1,5 +1,20 @@
-### Hi!
-#### Here are (some of) my completed projects (that aren't confidential and/or the property of an employer).
+# Hi!
+
+----
+
+## About me (i.e. the section you can skip):
+
+I am a human who has ended up needing to switch languages several times over the years that I've been programming, generally because the tasks I'm given have different requirements. At this point, I feel as though my specialism is switching languages, rather than one specific language. I remember having to complete a work task in R, which I didn't even know, but it went smoothly without any assistance needed.
+
+I'm sometimes a developer and sometimes a data analyst.
+
+I've noticed a trend on LinkedIn where users will put irrelevant pictures of themselves in their posts. I don't know if it's some kind of psychological thing, or if it's to make our increasingly digital world feel more human, but if it's the latter then I guess I can get on board with that! Here:
+
+<img src='img1.jpeg' alt='Photo of me' height='400'> <img src='img2.jpeg' alt='Photo of me' height='400'>
+
+----
+
+## Here are (some of) my completed projects (that aren't confidential and/or the property of an employer):
 
 [Here](https://github.com/Coletterbox/Git-Guide)'s a guide to Git that I wrote because of being in multiple environments where all Git-related queries, some with only the most tenuous link, were directed to me.
 
@@ -28,4 +43,3 @@ These are my Advent of Code attempts, but every year I stop around Christmas Day
 [This](https://github.com/Coletterbox/Slightly-Bigger-Numbers) takes a number and returns the next biggest number that uses the same digits. I may have gone too far back... The code might be terrible. But it works! (JavaScript.)
 
 [This](https://coletterbox.github.io/headline-generator) (using HTML, CSS and JavaScript) is a parody of racist, fearmongering newspapers. It generates headlines randomly, just like they do.
-
