@@ -22,6 +22,8 @@ I've noticed a trend on LinkedIn where users will put irrelevant pictures of the
 
 [Here](https://github.com/Coletterbox/Text-Comparison)'s some light data analysis using Python (including NumPy and Matplotlib), created on a day when I couldn't think of a project idea that wasn't a joke.
 
+Technically, [this](https://coletterbox.github.io/Childrens-Book/) might be one of the simplest web pages I've ever created, but it says some stuff that needs saying.
+
 [This](https://github.com/Coletterbox/Analysis-of-Some-Guy-s-Attempt-at-Small-Talk) is... let's call it social commentary. It's a word cloud and some other stuff using Python and some of its libraries (Pandas, NumPy, Matplotlib, etc.).
 
 These are my Advent of Code attempts, but every year I stop around Christmas Day (but so does everyone else I know). [2020](https://github.com/Coletterbox/Advent-of-Code-2020) (Java, JavaScript, Python, Ruby and C#), [2021](https://github.com/Coletterbox/Advent-of-Code-2021) (JavaScript) and [2022](https://github.com/Coletterbox/Advent-of-Code-2022) (Python).
