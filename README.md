@@ -4,7 +4,7 @@
 
 ----
 
-## About me (i.e. the section you can skip):
+## About Me (i.e. the section you can skip):
 
 I am a human who has ended up needing to switch languages several times over the years that I've been programming, generally because the tasks I'm given have different requirements. At this point, I feel as though my specialism is switching languages, rather than one specific language. I remember having to complete a work task in R, which I didn't even know, but it went smoothly without any assistance needed.
 
@@ -16,11 +16,11 @@ I've noticed a trend on LinkedIn where users will put irrelevant pictures of the
 
 ----
 
-## Here are (some of) my completed projects (that aren't confidential and/or the property of an employer):
+## Some of My Completed Projects (that aren't confidential and/or the property of an employer):
 
 [Git Guide](https://github.com/Coletterbox/Git-Guide) - A guide to Git that I wrote because of being in multiple environments where all Git-related queries, some with only the most tenuous link, were directed to me.
 
-[Marketplace Analysis](https://github.com/Coletterbox/Link-Tallying) - This analyses the frequency of each company advertising on a given marketplace (Python, Matplotlib...) by taking the HTML file as an input, since there was no API for this section of the marketplace.
+[Marketplace Analysis](https://github.com/Coletterbox/Link-Tallying) - This analyses the frequency of each company advertising on a given marketplace by taking the HTML file as an input, since there was no API for this section of the marketplace. (Python, Matplotlib...) 
 
 [Text Analysis (this is not serious)](https://github.com/Coletterbox/Text-Comparison) - Some light data analysis using Python (including NumPy and Matplotlib), created on a day when I couldn't think of a project idea that wasn't a joke.
 
