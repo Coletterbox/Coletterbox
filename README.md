@@ -1,3 +1,5 @@
+<img src='img3.jpg' alt='Photo of me' height='400'>
+
 # Hi!
 
 ----
