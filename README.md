@@ -10,10 +10,6 @@ I am a human who has ended up needing to switch languages several times over the
 
 I'm sometimes a developer and sometimes a data analyst.
 
-I've noticed a trend on LinkedIn where users will put irrelevant pictures of themselves in their posts. I don't know if it's some kind of psychological thing, or if it's to make our increasingly digital world feel more human, but if it's the latter then I guess I can get on board with that! Here:
-
-<img src='img1.jpeg' alt='Photo of me' height='400'> <img src='img2.jpeg' alt='Photo of me' height='400'>
-
 ----
 
 ## Some of My Completed Projects (that aren't confidential and/or the property of an employer):
@@ -23,8 +19,6 @@ I've noticed a trend on LinkedIn where users will put irrelevant pictures of the
 [Marketplace Analysis](https://github.com/Coletterbox/Link-Tallying) - This analyses the frequency of each company advertising on a given marketplace by taking the HTML file as an input, since there was no API for this section of the marketplace. (Python, Matplotlib...) 
 
 [Text Analysis (this is not serious)](https://github.com/Coletterbox/Text-Comparison) - Some light data analysis using Python (including NumPy and Matplotlib), created on a day when I couldn't think of a project idea that wasn't a joke.
-
-["Children's Book"](https://coletterbox.github.io/Childrens-Book/) - One of the simplest web pages I've ever created, but it says some stuff that needs saying.
 
 [Word Cloud from WhatsApp Data](https://github.com/Coletterbox/Analysis-of-Some-Guy-s-Attempt-at-Small-Talk) - This is... let's call it social commentary. It's a word cloud and some other stuff using Python and some of its libraries (Pandas, NumPy, Matplotlib, etc.).
 
