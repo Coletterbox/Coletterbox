@@ -30,6 +30,8 @@ Advent of Code Attempts: [2020](https://github.com/Coletterbox/Advent-of-Code-20
 
 [Data Analysis (BigQuery and Python)](https://github.com/Coletterbox/More-BigQuery-with-Python/blob/main/dashboardDraft1.ipynb) - This connects to BigQuery's API; runs SQL queries (that I wrote) and plots them using Python libraries.
 
+[More Data Analysis](https://github.com/Coletterbox/A-Google-Sheets-Dashboard) - This is going to be a dashboard project, but right now it's a sandbox (Python - connects to API; gets data; uses Pandas, MatPlotLib and NumPy).
+
 [Merge Sort Project](https://github.com/Coletterbox/MergeSort/blob/master/CombineAndSortArrays.java) - A merge sort project that I completed in Java.
 
 [Java Sudoku Checker](https://github.com/Coletterbox/SudokuCheckerJava/blob/master/src/main/java/com/test/crss/CheckBoard.java) - This takes a sudoku board as a two-dimensional array and tells you if it is complete/correct.
