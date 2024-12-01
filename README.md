@@ -8,7 +8,9 @@
 
 ### Data Analysis
 
-[Solutions to SQL Puzzles from the Internet](https://github.com/Coletterbox/SQL-Server-Problems)
+[Solutions to SQL Puzzles from the Internet](https://github.com/Coletterbox/SQL-Server-Problems) - Specifically HackerRank. (SQL Server)
+
+[Advent of SQL 2024](https://github.com/Coletterbox/Advent-of-SQL-2024)
 
 [Marketplace Analysis](https://github.com/Coletterbox/Link-Tallying) - This analyses the frequency of each company advertising on a given marketplace by taking the HTML file as an input, since there was no API for this section of the marketplace. (Python, Matplotlib...) 
 
@@ -28,7 +30,9 @@
 
 [Git Guide](https://github.com/Coletterbox/Git-Guide) - A guide to Git that I wrote because of being in multiple environments where all Git-related queries, some with only the most tenuous link, were directed to me.
 
-Advent of Code Attempts: [2020](https://github.com/Coletterbox/Advent-of-Code-2020) (Java, JavaScript, Python, Ruby and C#), [2021](https://github.com/Coletterbox/Advent-of-Code-2021) (JavaScript) and [2022](https://github.com/Coletterbox/Advent-of-Code-2022) - But every year I stop around Christmas Day (but so does everyone else I know). (Python)
+[Advent of Code 2024](https://github.com/Coletterbox/Advent-of-Code-2024)
+
+Previous Advent of Code Attempts: [2020](https://github.com/Coletterbox/Advent-of-Code-2020) (Java, JavaScript, Python, Ruby and C#), [2021](https://github.com/Coletterbox/Advent-of-Code-2021) (JavaScript) and [2022](https://github.com/Coletterbox/Advent-of-Code-2022) - But every year I stop around Christmas Day (but so does everyone else I know). (Python)
 
 [Randomised Task Chooser Website](https://coletterbox.github.io/Random-Task-Chooser/) - A web page I made that randomly chooses your next task, in case you can't decide (made using JavaScript, HTML and CSS, of course).
 
