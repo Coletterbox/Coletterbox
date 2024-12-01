@@ -10,7 +10,7 @@
 
 [Solutions to SQL Puzzles from the Internet](https://github.com/Coletterbox/SQL-Server-Problems) - Specifically HackerRank. (SQL Server)
 
-[Advent of SQL 2024](https://github.com/Coletterbox/Advent-of-SQL-2024)
+[Advent of SQL 2024](https://github.com/Coletterbox/Advent-of-SQL-2024) - (PostgreSQL)
 
 [Marketplace Analysis](https://github.com/Coletterbox/Link-Tallying) - This analyses the frequency of each company advertising on a given marketplace by taking the HTML file as an input, since there was no API for this section of the marketplace. (Python, Matplotlib...) 
 
