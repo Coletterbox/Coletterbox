@@ -10,7 +10,7 @@
 
 [Solutions to SQL Puzzles from the Internet](https://github.com/Coletterbox/SQL-Server-Problems) - Specifically HackerRank. (SQL Server)
 
-[Advent of SQL 2024](https://github.com/Coletterbox/Advent-of-SQL-2024) - (PostgreSQL)
+[Advent of SQL 2024](https://github.com/Coletterbox/Advent-of-SQL-2024) - (Topics covered: JSON, case, joins, union, CTE, ASCII, string aggregation, window functions.) These are generally a lot more complex than the HackerRank intermediate problems, since they involve JSON and XML data. The author has marked them all as "beginner," which I'm thinking may be a sick prank. (PostgreSQL)
 
 [Marketplace Analysis](https://github.com/Coletterbox/Link-Tallying) - This analyses the frequency of each company advertising on a given marketplace by taking the HTML file as an input, since there was no API for this section of the marketplace. (Python, Matplotlib...) 
 
