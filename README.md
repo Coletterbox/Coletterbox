@@ -8,9 +8,20 @@
 
 ### Data Analysis
 
-[Solutions to SQL Puzzles from the Internet](https://github.com/Coletterbox/SQL-Server-Problems) - Specifically HackerRank. (SQL Server)
+#### My most common tasks/responsibilities have been:
+#### - JSON (from website) → use JavaScript / Google Apps Script to connect to API; pull data, and write to Google Sheets
+(useful for if you need the data pulled and written automatically every day, without the use of a server or computer that is always on at that time)
+#### - unstructured data from website → write JavaScript or Python code to parse/process → (if analysing) plot using Python libraries
+(this is also good for websites without a public API)
+#### - SQl data (on BigQuery) → pull using Python code connecting to BigQuery API → plot using Python libraries
+#### - SQL data (on more local database) → pull using Python code connecting to server → plot using Python libraries
+#### - SQL data (Amazon Redshift, SQL Workbench/J) → (just export) → Excel / Google Sheets
+(this is a quick and easy method for data below a certain size)
+#### - scripts to automate data collection; Bash scripts to automate running of scripts
 
-[Advent of SQL 2024](https://github.com/Coletterbox/Advent-of-SQL-2024) - (Topics covered: JSON, case, joins, union, CTE, ASCII, string aggregation, window functions.) These are generally a lot more complex than the HackerRank intermediate problems, since they involve JSON and XML data. The author has marked them all as "beginner," which I'm thinking may be a sick prank. (PostgreSQL)
+[Advent of SQL 2024](https://github.com/Coletterbox/Advent-of-SQL-2024) - Topics covered: JSON, CASE, joins, UNION, CTEs, ASCII, string aggregation, array functions, set operations, LAG(), ROUND(), window functions. (PostgreSQL)
+
+[Solutions to SQL Puzzles from the Internet](https://github.com/Coletterbox/SQL-Server-Problems) - Specifically HackerRank. (SQL Server)
 
 [Marketplace Analysis](https://github.com/Coletterbox/Link-Tallying) - This analyses the frequency of each company advertising on a given marketplace by taking the HTML file as an input, since there was no API for this section of the marketplace. (Python, Matplotlib...) 
 
