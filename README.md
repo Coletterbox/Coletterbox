@@ -23,7 +23,7 @@
 
 [Solutions to SQL Puzzles from the Internet](https://github.com/Coletterbox/SQL-Server-Problems) - Specifically HackerRank. (SQL Server)
 
-[Marketplace Analysis](https://github.com/Coletterbox/Link-Tallying) - This analyses the frequency of each company advertising on a given marketplace by taking the HTML file as an input, since there was no API for this section of the marketplace. (Python, Matplotlib...) 
+[Marketplace Analysis](https://github.com/Coletterbox/Link-Tallying) - (unstructured data) This analyses the frequency of each company advertising on a given marketplace by taking the HTML file as an input, since there was no API for this section of the marketplace. (Python, Matplotlib...) 
 
 [Data Analysis (BigQuery and Python)](https://github.com/Coletterbox/More-BigQuery-with-Python/blob/main/dashboardDraft1.ipynb) - This connects to BigQuery's API; runs SQL queries (that I wrote) and plots them using Python libraries.
 
