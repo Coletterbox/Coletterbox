@@ -13,7 +13,7 @@
 (useful for if you need the data pulled and written automatically every day, without the use of a server or computer that is always on at that time)
 #### - unstructured data from website → write JavaScript or Python code to parse/process → (if analysing) plot using Python libraries
 (this is also good for websites without a public API)
-#### - SQl data (on BigQuery) → pull using Python code connecting to BigQuery API → plot using Python libraries
+#### - SQL data (on BigQuery) → pull using Python code connecting to BigQuery API → plot using Python libraries
 #### - SQL data (on more local database) → pull using Python code connecting to server → plot using Python libraries
 #### - SQL data (Amazon Redshift, SQL Workbench/J) → (just export) → Excel / Google Sheets
 (this is a quick and easy method for data below a certain size)
