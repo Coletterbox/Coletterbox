@@ -19,7 +19,7 @@
 (this is a quick and easy method for data below a certain size)
 #### - scripts to automate data collection; Bash scripts to automate running of scripts
 
-[Microsoft Stock Price Analysis](https://github.com/Coletterbox/Microsoft-Stock-Price-Dashboard/blob/main/README.md) - Connects to the Marketstack API using Python, then uses Pandas and Matplotlib to analyse the data. I referenced other stock price dashboards to see how the fields I had were usually analysed and compared (e.g. closing price versus volume), and how they're generally laid out.
+[Microsoft Stock Price Analysis](https://github.com/Coletterbox/Microsoft-Stock-Price-Dashboard/blob/main/README.md) - Connects to the Marketstack API using Python, then uses Pandas, Matplotlib and Plotly to analyse the data. I referenced other stock price dashboards to see how the fields I had were usually analysed and compared (e.g. closing price versus volume), and how they're generally laid out.
 
 [Advent of SQL 2024](https://github.com/Coletterbox/Advent-of-SQL-2024) - Topics covered: JSON, CASE, joins, UNION, CTEs, ASCII, string aggregation, array functions, set operations, LAG(), ROUND(), window functions. (PostgreSQL)
 
